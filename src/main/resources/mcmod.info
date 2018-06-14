@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moretools",
+  "name": "More Tools",
+  "description": "A mod that adds more tools.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["minecraftpro941"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
