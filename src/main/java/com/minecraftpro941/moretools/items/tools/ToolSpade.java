@@ -2,7 +2,7 @@ package com.minecraftpro941.moretools.items.tools;
 
 import com.minecraftpro941.moretools.Main;
 import com.minecraftpro941.moretools.init.ModItems;
-import com.minecraftpro941.moretools.util.IHasModel;
+import com.minecraftpro941.moretools.util.IHasModels;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemSpade;
