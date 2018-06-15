@@ -19,8 +19,8 @@ public class ModItems
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
 	//Materials
-	public static final ToolMaterial MATERIAL_DRAGONS_BREATH = EnumHelper.addToolMaterial("material_dragons_breath", 0, 1031, 0.0F, 5.0F, 15); //should have 9atk
-	
+	public static final ToolMaterial MATERIAL_DRAGONS_BREATH = EnumHelper.addToolMaterial("material_dragons_breath", 0, 1031, 2.0F, 5.0F, 15);
+
 	//Items
 	//N/A
 	
