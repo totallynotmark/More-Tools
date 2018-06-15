@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "moretools:items/structure_void_sword"
+   }
+}
