@@ -1,6 +1,6 @@
 {
    "parent": "item/handheld",
    "textures": {
-       "layer0": "moretools:items/ends_breath"
+       "layer0": "moretools:items/dragons_breath_sword"
    }
 }
