@@ -26,7 +26,7 @@ public class ModItems
 	
 	//Materials
 	public static final ToolMaterial MATERIAL_DRAGONS_BREATH = EnumHelper.addToolMaterial("material_dragons_breath", 2, 1031, 2.0F, 5.0F, 15);
-	public static final ToolMaterial MATERIAL_STRUCTURE_VOID = EnumHelper.addToolMaterial("material_structure_void", 3, -1, 32.0F, 38.0F, 100);
+	public static final ToolMaterial MATERIAL_STRUCTURE_VOID = EnumHelper.addToolMaterial("material_structure_void", 3, -1, 32.0F, 38.0F, 22);
 	//Items
 	//N/A
 	
