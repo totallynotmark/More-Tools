@@ -30,6 +30,9 @@ public class ModItems
 	//Items
 	//N/A
 	
+	public static final Item SAPPHIRE = new ItemBase("sapphire");
+	public static final Item SAPPHIRE_ROD = new ItemBase("sapphire_rod");
+
 	//Tools
 	
 	//Dragon's Breath

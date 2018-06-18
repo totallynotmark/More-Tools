@@ -1,3 +1,9 @@
+//Items
+item.sapphire.name=Sapphire
+item.sapphire_rod.name=Sapphire Rod
+
+//Tools
+
 //Dragon's Breath
 item.dragons_breath_sword.name=End's Breath
 
