@@ -9,7 +9,7 @@ item.dragons_breath_sword.name=End's Breath
 
 //Structure Void
 item.structure_void_sword.name=Structure Void Sword
-item.structure_void_spade.name=Structure Void Shovel
 item.structure_void_pickaxe.name=Structure Void Pickaxe
+item.structure_void_spade.name=Structure Void Shovel
 item.structure_void_axe.name=Structure Void Axe
 item.structure_void_hoe.name=Structure Void Hoe
