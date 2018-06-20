@@ -27,12 +27,16 @@ public class ModItems
 	//Materials
 	public static final ToolMaterial MATERIAL_DRAGONS_BREATH = EnumHelper.addToolMaterial("material_dragons_breath", 2, 1031, 2.0F, 5.0F, 15);
 	public static final ToolMaterial MATERIAL_STRUCTURE_VOID = EnumHelper.addToolMaterial("material_structure_void", 3, -1, 32.0F, 38.0F, 22);
-	public static final ToolMaterial MATERIAL_SAPPHIRE = EnumHelper.addToolMaterial("material_sapphire", 0, 0, 0.0F, 0.0F, 0); //TODO: add values
+	public static final ToolMaterial MATERIAL_SAPPHIRE = EnumHelper.addToolMaterial("material_sapphire", 2, 700, 12.0F, 2.0F, 18);
 
 	//Items
 	public static final Item SAPPHIRE = new ItemBase("sapphire");
 	public static final Item IRON_ROD = new ItemBase("iron_rod");
-
+	/*
+	public static final Item SAPPHIRE_INFUSED_INGOT = new ItemBase("sapphire_infused_ingot")
+	public static final Item SAPPHIRE_INFUSED_ROD = new ItemBase("sapphire_infused_rod")
+	*/
+	
 	//Tools
 
 	//Dragon's Breath
@@ -46,13 +50,12 @@ public class ModItems
 	public static final ItemHoe STRUCTURE_VOID_HOE = new ToolHoe("structure_void_hoe", MATERIAL_STRUCTURE_VOID);
 
 	//Sapphire
-	/*
-	public static final ItemSword SAPPHIRE_SWORD = new ToolSword("structure_void_sword", MATERIAL_SAPPHIRE);
-	public static final ItemPickaxe SAPPHIRE_PICKAXE = new ToolPickaxe("structure_void_pickaxe", MATERIAL_SAPPHIRE);
-	public static final ItemSpade SAPPHIRE_SPADE = new ToolSpade("structure_void_spade", MATERIAL_SAPPHIRE);
-	public static final ItemAxe SAPPHIRE_AXE = new ToolAxe("structure_void_axe", MATERIAL_SAPPHIRE);
-	public static final ItemHoe SAPPHIRE_HOE = new ToolHoe("structure_void_hoe", MATERIAL_SAPPHIRE);
-	*/
+	public static final ItemSword SAPPHIRE_SWORD = new ToolSword("sapphire_sword", MATERIAL_SAPPHIRE);
+	public static final ItemPickaxe SAPPHIRE_PICKAXE = new ToolPickaxe("sapphire_pickaxe", MATERIAL_SAPPHIRE);
+	public static final ItemSpade SAPPHIRE_SPADE = new ToolSpade("sapphire_spade", MATERIAL_SAPPHIRE);
+	public static final ItemAxe SAPPHIRE_AXE = new ToolAxe("sapphire_axe", MATERIAL_SAPPHIRE);
+	public static final ItemHoe SAPPHIRE_HOE = new ToolHoe("sapphire_hoe", MATERIAL_SAPPHIRE);
+
 
 
 
