@@ -1,9 +1,22 @@
+//Items
+item.sapphire.name=Sapphire
+item.sapphire_rod.name=Sapphire Rod
+
+//Tools
+
 //Dragon's Breath
 item.dragons_breath_sword.name=End's Breath
 
 //Structure Void
 item.structure_void_sword.name=Structure Void Sword
-item.structure_void_spade.name=Structure Void Shovel
 item.structure_void_pickaxe.name=Structure Void Pickaxe
+item.structure_void_spade.name=Structure Void Shovel
 item.structure_void_axe.name=Structure Void Axe
 item.structure_void_hoe.name=Structure Void Hoe
+
+//Sapphire
+item.sapphire_sword.name=Sapphire Sword
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_spade.name=Sapphire Shovel
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_hoe.name=Sapphire Hoe
