@@ -31,7 +31,7 @@ public class ModItems
 
 	//Items
 	public static final Item SAPPHIRE = new ItemBase("sapphire");
-	public static final Item IRON_ROD = new ItemBase("iron_rod");
+	//public static final Item IRON_ROD = new ItemBase("iron_rod");
 	public static final Item SAPPHIRE_IRON_BLEND = new ItemBase("sapphire_iron_blend");
 	public static final Item SAPPHIRE_INFUSED_INGOT = new ItemBase("sapphire_infused_ingot");
 	public static final Item SAPPHIRE_INFUSED_ROD = new ItemBase("sapphire_infused_rod");
