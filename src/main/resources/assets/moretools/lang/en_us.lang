@@ -1,6 +1,10 @@
 //Items
 item.sapphire.name=Sapphire
 item.sapphire_rod.name=Sapphire Rod
+item.sapphire_iron_blend.name=Sapphire Infused Blend
+item.sapphire_infused_ingot.name=Sapphire Infused Ingot
+item.sapphire_infused_rod.name=Sapphire Infused Rod
+
 
 //Tools
 
