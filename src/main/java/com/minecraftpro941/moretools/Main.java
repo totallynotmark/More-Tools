@@ -1,5 +1,6 @@
 package com.minecraftpro941.moretools;
 
+import com.minecraftpro941.moretools.init.ModRecipies;
 import com.minecraftpro941.moretools.proxy.CommonProxy;
 import com.minecraftpro941.moretools.util.Reference;
 
@@ -30,6 +31,8 @@ public class Main
 	@EventHandler
 	public static void init(FMLInitializationEvent event)
 	{
+		
+		ModRecipies.init();
 		
 	}
 	

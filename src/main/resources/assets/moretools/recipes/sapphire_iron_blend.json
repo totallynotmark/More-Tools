@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I",
+        "S",
+        "I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item":"minecraft:iron_ingot"
+        },
+        
+        "S":
+        {
+            "item":"moretools:sapphire"
+        }
+    },
+    
+    "result":
+    {
+        "item": "moretools:sapphire_iron_blend",
+        "count": 1
+    }
+}

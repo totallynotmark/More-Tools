@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I",
+        "I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item":"moretools:sapphire_infused_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "moretools:sapphire_infused_rod",
+        "count": 1
+    }
+}
