@@ -2,8 +2,10 @@ package com.minecraftpro941.moretools;
 
 import com.minecraftpro941.moretools.init.ModRecipies;
 import com.minecraftpro941.moretools.proxy.CommonProxy;
+import com.minecraftpro941.moretools.tabs.ToolTab;
 import com.minecraftpro941.moretools.util.Reference;
 
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;
@@ -15,6 +17,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
 public class Main
 {
+	public static final CreativeTabs tooltab = new ToolTab("tooltab");
 	
 	@Instance
 	public static Main instance;
