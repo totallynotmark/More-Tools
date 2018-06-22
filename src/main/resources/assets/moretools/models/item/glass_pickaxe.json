@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "moretools:items/glass_pickaxe"
+   }
+}

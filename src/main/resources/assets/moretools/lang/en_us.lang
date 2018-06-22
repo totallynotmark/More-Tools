@@ -24,3 +24,10 @@ item.sapphire_pickaxe.name=Sapphire Pickaxe
 item.sapphire_spade.name=Sapphire Shovel
 item.sapphire_axe.name=Sapphire Axe
 item.sapphire_hoe.name=Sapphire Hoe
+
+//Glass
+item.glass_sword.name=Glass Sword
+item.glass_pickaxe.name=Glass Pickaxe
+item.glass_spade.name=Glass Shovel
+item.glass_axe.name=Glass Axe
+item.glass_hoe.name=Glass Hoe
