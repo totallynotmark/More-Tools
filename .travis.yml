@@ -1,4 +1,6 @@
 language: java
+jdk:
+  - oraclejdk9
 gradle assemble
 gradle check
 before_cache:
