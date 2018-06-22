@@ -2,4 +2,4 @@ language: java
 jdk: oraclejdk8
 
 install: "gradle setupCIWorkspace"
-script: "gradlew build"
+script: "gradle build"
