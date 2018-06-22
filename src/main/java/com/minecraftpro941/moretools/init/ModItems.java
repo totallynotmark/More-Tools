@@ -29,6 +29,7 @@ public class ModItems
 	public static final ToolMaterial MATERIAL_STRUCTURE_VOID = EnumHelper.addToolMaterial("material_structure_void", 3, -1, 32.0F, 38.0F, 22);
 	public static final ToolMaterial MATERIAL_SAPPHIRE = EnumHelper.addToolMaterial("material_sapphire", 2, 700, 8.0F, 2.5F, 18);
 	public static final ToolMaterial MATERIAL_GLASS = EnumHelper.addToolMaterial("material_glass", 1, 16, 1.0F, 1.5F, 14);
+	public static final ToolMaterial MATERIAL_GLASS_PANE = EnumHelper.addToolMaterial("material_glass_pane", 2, 1, 16.0F, 2.0F, 10);
 
 	//Items
 	public static final Item SAPPHIRE = new ItemBase("sapphire");

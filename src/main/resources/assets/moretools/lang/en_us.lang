@@ -31,3 +31,10 @@ item.glass_pickaxe.name=Glass Pickaxe
 item.glass_spade.name=Glass Shovel
 item.glass_axe.name=Glass Axe
 item.glass_hoe.name=Glass Hoe
+
+//Glass Pane
+item.glass_pane_sword.name=Glass Pane Sword
+item.glass_pane_pickaxe.name=Glass Pane Pickaxe
+item.glass_pane_spade.name=Glass Pane Shovel
+item.glass_pane_axe.name=Glass Pane Axe
+item.glass_pane_hoe.name=Glass Pane Hoe
