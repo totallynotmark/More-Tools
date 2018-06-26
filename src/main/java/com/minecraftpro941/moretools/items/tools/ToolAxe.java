@@ -15,7 +15,7 @@ public class ToolAxe extends ItemAxe implements IHasModels {
 		super(material, 6.0F, -3.2F);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.tooltab);
 
 		ModItems.ITEMS.add(this);
 	}

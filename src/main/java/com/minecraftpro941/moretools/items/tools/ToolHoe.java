@@ -15,7 +15,7 @@ public class ToolHoe extends ItemHoe implements IHasModels {
 		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.tooltab);
 
 		ModItems.ITEMS.add(this);
 	}
