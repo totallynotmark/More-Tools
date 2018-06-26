@@ -56,7 +56,7 @@ public class ModItems
 	public static final ItemSpade SAPPHIRE_SPADE = new ToolSpade("sapphire_spade", MATERIAL_SAPPHIRE);
 	public static final ItemAxe SAPPHIRE_AXE = new ToolAxe("sapphire_axe", MATERIAL_SAPPHIRE);
 	public static final ItemHoe SAPPHIRE_HOE = new ToolHoe("sapphire_hoe", MATERIAL_SAPPHIRE);
-
+/*
 	//Glass
 	public static final ItemSword GLASS_SWORD = new ToolSword("glass_sword", MATERIAL_GLASS);
 	public static final ItemPickaxe GLASS_PICKAXE = new ToolPickaxe("glass_pickaxe", MATERIAL_GLASS);
@@ -70,7 +70,7 @@ public class ModItems
 	public static final ItemSpade GLASS_PANE_SPADE = new ToolSpade("glass_pane_spade", MATERIAL_GLASS_PANE);
 	public static final ItemAxe GLASS_PANE_AXE = new ToolAxe("glass_pane_axe", MATERIAL_GLASS_PANE);
 	public static final ItemHoe GLASS_PANE_HOE = new ToolHoe("glass_pane_hoe", MATERIAL_GLASS_PANE);
-
+*/
 
 
 
