@@ -30,7 +30,13 @@ public class ModItems
 	public static final ToolMaterial MATERIAL_SAPPHIRE = EnumHelper.addToolMaterial("material_sapphire", 2, 700, 8.0F, 2.5F, 18);
 	public static final ToolMaterial MATERIAL_GLASS = EnumHelper.addToolMaterial("material_glass", 1, 16, 1.0F, 1.5F, 14);
 	public static final ToolMaterial MATERIAL_GLASS_PANE = EnumHelper.addToolMaterial("material_glass_pane", 2, 1, 16.0F, 2.0F, 10);
-
+	public static final ToolMaterial MATERIAL_CLAY_I = EnumHelper.addToolMaterial("material_clay_i", 0, 32, 1.0F, 0.0F, 5);
+	public static final ToolMaterial MATERIAL_CLAY_II = EnumHelper.addToolMaterial("material_clay_ii", 0, 59, 1.0F, 0.0F, 6);
+	public static final ToolMaterial MATERIAL_CLAY_III = EnumHelper.addToolMaterial("material_clay_iii", 1, 131, 2.0F, 1.0F, 7);
+	public static final ToolMaterial MATERIAL_CLAY_IV = EnumHelper.addToolMaterial("material_clay_iv", 2, 250, 3.0F, 2.0F, 8);
+	public static final ToolMaterial MATERIAL_CLAY_V = EnumHelper.addToolMaterial("material_clay_v", 3, 1561, 4.0F, 3.0F, 9);
+	public static final ToolMaterial MATERIAL_CLAY_VI = EnumHelper.addToolMaterial("material_clay_vi", 3, -1, 5.0F, 4.0F, 10);
+	
 	//Items
 	public static final Item SAPPHIRE = new ItemBase("sapphire");
 	//public static final Item IRON_ROD = new ItemBase("iron_rod");
