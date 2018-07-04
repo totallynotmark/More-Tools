@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "I"
+    ],
+
+    "key":
+    {
+        "I":
+        {
+            "item":"minecraft:stick"
+        }
+    },
+
+    "result":
+    {
+        "item": "moretools:debug_item_iii",
+        "count": 1
+    }
+}

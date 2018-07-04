@@ -37,6 +37,8 @@ public class ModItems
 	public static final Item SAPPHIRE_IRON_BLEND = new ItemBase("sapphire_iron_blend");
 	public static final Item SAPPHIRE_INFUSED_INGOT = new ItemBase("sapphire_infused_ingot");
 	public static final Item SAPPHIRE_INFUSED_ROD = new ItemBase("sapphire_infused_rod");
+	public static final Item DEBUG_ITEM_III = new ItemBase("debug_item_iii");
+	public static final Item DEBUG_ITEM_IV = new ItemBase("debug_item_iv");
 
 	//Tools
 

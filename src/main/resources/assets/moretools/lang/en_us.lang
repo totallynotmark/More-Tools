@@ -9,6 +9,8 @@ item.sapphire_rod.name=Sapphire Rod
 item.sapphire_iron_blend.name=Sapphire Infused Blend
 item.sapphire_infused_ingot.name=Sapphire Infused Ingot
 item.sapphire_infused_rod.name=Sapphire Infused Rod
+item.debug_item_iii=Teir III Placeholder Item
+item.debug_item_iv=Teir IV Placeholder Item
 
 
 //Tools

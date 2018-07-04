@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "I"
+    ],
+
+    "key":
+    {
+        "I":
+        {
+            "item":"moretools:debug_item_iii"
+        }
+    },
+
+    "result":
+    {
+        "item": "moretools:debug_item_iv",
+        "count": 1
+    }
+}
